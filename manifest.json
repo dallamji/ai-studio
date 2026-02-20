@@ -2,7 +2,7 @@
   "name": "AI 콘텐츠 스튜디오",
   "short_name": "AI Studio",
   "description": "AI 광고·콘텐츠 자동화 대시보드",
-  "start_url": "./dashboard_v5.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#080810",
   "theme_color": "#080810",
